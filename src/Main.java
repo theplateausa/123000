@@ -5,7 +5,7 @@ public class Main {
 
         //from pc
 
-        System.out.println("this message send from pc me");
+        System.out.println("this message send from pc");
     }
 }
 
